@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: About Me
 ---
 
 I am currently a final year undergraduate pursuing Bachelor of Science (B.Sc.) in Chemistry with Physics and Mathematics as minor from St. Xavier's College, Kolkata.
