@@ -3,7 +3,7 @@ layout: post
 title: 
 ---
 
-<img src="/assets/Profile_Image.jpeg" align="left" width="50" height="50">
+<img src="/assets/Profile_Image.jpeg" align="center" width="150" height="150">
 <!-- ![Hey!](/assets/Profile_Image.jpeg) -->
 
 I am currently a final year undergraduate pursuing Bachelor of Science (B.Sc.) in Chemistry with Physics and Mathematics as minor from [St. Xavier's College, Kolkata.](https://www.sxccal.edu/)
