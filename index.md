@@ -3,12 +3,13 @@ layout: post
 title: 
 ---
 
-<!-- <img src="/assets/Profile_Image.jpeg" align="center" width="200" height="200"> -->
-<!-- ![Hey!](/assets/Profile_Image.jpeg) -->
 
 I am currently a final year undergraduate student pursuing Bachelor of Science (BSc Hons) in Chemistry with Physics and Mathematics as minor from [St. Xavier's College, Kolkata.](https://www.sxccal.edu/)
 
-I grew up in the university campus of [IIT Kharagpur](http://www.iitkgp.ac.in/) in India.
+People sometimes recognize me better, by my nickname Wrik. I grew up in the university campus of [IIT Kharagpur](http://www.iitkgp.ac.in/) in India.
+
+<!-- <img src="/assets/Profile_Image.jpeg" align="center" width="200" height="200"> -->
+<!-- ![Hey!](/assets/Profile_Image.jpeg) -->
 
 <!-- ~
 
