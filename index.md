@@ -1,7 +1,9 @@
 ---
 layout: post
-title: ![Hey!](/assets/Profile_Image.jpeg))
+title: 
 ---
+
+![Hey!](/assets/Profile_Image.jpeg)
 
 I am currently a final year undergraduate pursuing Bachelor of Science (B.Sc.) in Chemistry with Physics and Mathematics as minor from [St. Xavier's College, Kolkata.](https://www.sxccal.edu/)
 
