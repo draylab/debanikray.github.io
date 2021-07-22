@@ -7,7 +7,7 @@ I am currently a final year undergraduate pursuing Bachelor of Science (B.Sc.) i
 
 I grew up in the university campus of [IIT Kharagpur](http://www.iitkgp.ac.in/) in India.
 
-~
+<!-- ~
 
 If still wondering why an aspiring scientist. Well,
 
@@ -15,4 +15,4 @@ Engineering: where the noble, semi-skilled laborers execute the vision of those 
 
 Engineer: The Oompa Loompas of Science.
 
-[BAZINGA!](https://www.dictionary.com/e/slang/bazinga/)
+[BAZINGA!](https://www.dictionary.com/e/slang/bazinga/) -->
