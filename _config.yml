@@ -6,7 +6,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-google_analytics: G-D62XCTV35T
+# google_analytics: G-D62XCTV35T
 
 # Layout
 
@@ -33,4 +33,3 @@ comments:
 
 plugins:
  - jekyll-feed
- 
