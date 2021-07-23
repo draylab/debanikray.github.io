@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 
-  <head>
+
 <!--   {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include google_analytics.html %}
 {% endif %} -->
@@ -15,10 +15,6 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-</head>
-  
-  <body>
-  
   
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -60,5 +56,4 @@
 </footer>
 {% endif %}
 
-  </body>
 </html>
