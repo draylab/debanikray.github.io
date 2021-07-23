@@ -17,15 +17,7 @@ title:
         </p>
 </div>
 
-
-
-<!-- <img src="/assets/Profile_Image.jpeg" align="center" width="200" height="200"> 
-![Hey!](/assets/Profile_Image.jpeg)
-
-I am currently a final year undergraduate student pursuing a Bachelor of Science (BSc Hons) in Chemistry with Physics and Mathematics from [St. Xavier's College, Kolkata.](https://www.sxccal.edu/)
-
-People sometimes recognize me better by my nickname Wrik. I grew up on the university campus of [IIT Kharagpur](http://www.iitkgp.ac.in/) in    India.
-~
+<!-- ~
 
 If still wondering why an aspiring scientist. Well,
 
