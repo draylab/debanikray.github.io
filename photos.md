@@ -9,7 +9,7 @@ I've since started to enjoy the smartphone photography experience of shooting an
 
 All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using VSCO app.
 
-<style>
+<!-- <style>
 * {
   box-sizing: border-box;
 }
@@ -32,6 +32,53 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+</style> -->
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 3px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
 }
 </style>
 
