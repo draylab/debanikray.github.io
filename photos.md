@@ -11,6 +11,7 @@ With the tech in modern smartphones progressing so much over the past few years,
 I've since started to enjoy the smartphone photography experience of shooting and editing on-the-go way more than any other system.
 All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using [VSCO](https://vsco.co/).
 
+<body style="background-color:white;">
 <style>
 * {
   box-sizing: border-box;
@@ -48,6 +49,7 @@ All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using 
     <img src="/photos/Old Building.jpg" style="width:100%">
   </div>
 </div>
+</body>
 
 <!-- ------------------------------------------------------------ -->
 
