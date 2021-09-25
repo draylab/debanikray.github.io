@@ -9,16 +9,50 @@ I've since started to enjoy the smartphone photography experience of shooting an
 
 All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using VSCO app.
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 <div class="row">
   <div class="column">
-    <img src="/photos/1.png">
-    <img src="/photos/2.png">
-    <img src="/photos/3.png">
-    <img src="/photos/5.png">
+    <img src="/photos/1.png" style="width:100%">
+    <img src="/photos/2.png" style="width:100%">
+    <img src="/photos/3.png" style="width:100%">
+    <img src="/photos/5.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/photos/1_1.png">
-    <img src="/photos/2_1.png">
+    <img src="/photos/1_1.png" style="width:100%">
+    <img src="/photos/2_1.png" style="width:100%">
   </div>
 </div>
 
