@@ -7,7 +7,7 @@ Here's a collection of images taken over the last couple months. Initially I sta
 
 I've since started to enjoy the smartphone photography experience of shooting and editing on-the-go way more than any other system. 
 
-All images below were shot on Xiaomi Mi A3 and edited using VSCO app.
+All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using VSCO app.
 
 <div class="row">
   <div class="column">
