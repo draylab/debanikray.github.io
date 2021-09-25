@@ -9,5 +9,16 @@ I've since started to enjoy the smartphone photography experience of shooting an
 
 All images below were shot on Xiaomi Mi A3 and edited using VSCO app.
 
-
+<div class="row">
+  <div class="column">
+    <img src="/photos/1.png">
+    <img src="/photos/2.png">
+    <img src="/photos/3.png">
+    <img src="/photos/5.png">
+  </div>
+  <div class="column">
+    <img src="/photos/1_1.png">
+    <img src="/photos/2_1.png">
+  </div>
+</div>
 
