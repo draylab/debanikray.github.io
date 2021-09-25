@@ -58,7 +58,7 @@ body {
 /* The grid: Four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 25%;
   padding: 3px;
 }
 
@@ -91,7 +91,7 @@ body {
   position: absolute;
   top: 10px;
   right: 15px;
-  color: white;
+  color: black;
   font-size: 35px;
   cursor: pointer;
 }
