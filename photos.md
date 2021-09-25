@@ -55,10 +55,9 @@ body {
   box-sizing: border-box;
 }
 
-/* The grid: Four equal columns that floats next to each other */
 .column {
-  float: left;
-  width: 30%;
+  float: center;
+  width: 50%;
   padding: 3px;
 }
 
