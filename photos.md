@@ -2,7 +2,7 @@
 layout: post
 title: "Photos"
 ---
-<h1></h1>
+<header></header>
 Here's a collection of images taken over the last couple of months. Initially, I started this project to try and push the capabilities of my smartphone camera.
 
 _Does it matter which tool you are using to capture the world around you?_
