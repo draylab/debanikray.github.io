@@ -56,7 +56,7 @@ body {
 }
 
 .column {
-  float: center;
+  float: left;
   width: 50%;
   padding: 3px;
 }
