@@ -58,7 +58,7 @@ body {
 /* The grid: Four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 25%;
+  width: 30%;
   padding: 3px;
 }
 
