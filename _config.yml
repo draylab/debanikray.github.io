@@ -20,6 +20,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: , title: "Résumé"}
   - {file: "blog.md", title: "Blog"}
+  - {file: "photos.md", title: "Photos"}  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:debanik09@gmail.com"}
