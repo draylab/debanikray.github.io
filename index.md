@@ -6,7 +6,7 @@ title:
 <div>
         <p align='justify'>
 
-        I am currently a final year undergraduate student pursuing a Bachelor of Science (BSc Hons) in Chemistry with Physics and Mathematics from <a href="https://www.sxccal.edu/">St. Xavier's College, Kolkata.</a>
+        I am currently a final year undergraduate student pursuing a Bachelor of Science (**BSc Hons**) in Chemistry with Physics and Mathematics from <a href="https://www.sxccal.edu/">St. Xavier's College, Kolkata.</a>
         
         </p>
         
