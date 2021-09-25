@@ -16,12 +16,6 @@ All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using 
 
 body {
   margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
 }
 
 .column {
