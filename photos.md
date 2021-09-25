@@ -9,6 +9,11 @@ I've since started to enjoy the smartphone photography experience of shooting an
 
 All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using VSCO app.
 
+---
+layout: default
+<!-- title: "Photos" -->
+---
+
 <!-- <style>
 * {
   box-sizing: border-box;
