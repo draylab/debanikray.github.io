@@ -20,7 +20,7 @@ All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using 
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 60%;
   padding: 3px;
 }
 
