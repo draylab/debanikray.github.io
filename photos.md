@@ -35,6 +35,21 @@ body {
 }
 </style> -->
 
+<!-- <div class="row">
+  <div class="column">
+    <img src="/photos/1.png" style="width:100%">
+    <img src="/photos/2.png" style="width:100%">
+    <img src="/photos/3.png" style="width:100%">
+    <img src="/photos/5.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/photos/1_1.png" style="width:100%">
+    <img src="/photos/2_1.png" style="width:100%">
+  </div>
+</div> -->
+
+<!-- ------------------------------------------------------------ -->
+
 <style>
 * {
   box-sizing: border-box;
@@ -82,16 +97,41 @@ body {
 }
 </style>
 
+<!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="/photos/1.png" style="width:100%">
-    <img src="/photos/2.png" style="width:100%">
-    <img src="/photos/3.png" style="width:100%">
-    <img src="/photos/5.png" style="width:100%">
+    <img src="/photos/1.png" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/photos/1_1.png" style="width:100%">
-    <img src="/photos/2_1.png" style="width:100%">
+    <img src="/photos/2.png" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/photos/3.png" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/photos/5.png" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/photos/1_1.png" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/photos/2_1.png" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:100%">
+  <div id="imgtext"></div>
+</div>
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
 
