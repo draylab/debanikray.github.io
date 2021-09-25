@@ -12,7 +12,7 @@ title:
         
         <p align='justify'>
         
-        People sometimes recognize me better by my nickname Wrik. I grew up on the university campus of <a href="http://www.iitkgp.ac.in/">IIT Kharagpur</a> in India.
+        People sometimes recognize me better by my nickname _Wrik_. I grew up on the university campus of <a href="http://www.iitkgp.ac.in/">IIT Kharagpur</a> in India.
                 
         </p>
 </div>
