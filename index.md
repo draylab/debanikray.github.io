@@ -2,7 +2,10 @@
 layout: post
 title: 
 ---
-
+<head>
+    <link rel="shortcut icon" sizes="32x32" href="/favicon-32x32.png">
+ </head>
+  
 <div>
         <p align='justify'>
 
