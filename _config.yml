@@ -28,6 +28,7 @@ external:                  # shows a footer with social links - for available ic
 #   - {title: Github, icon: github, url: "https://github.com/debanik09"}
   - {title: Facebook, icon: facebook, url: "https://facebook.com/debanik.ray"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/bakedrainy"}
+  - {title: Cinéaste, icon: fa-solid fa-film, url: "https://letterboxd.com/wrik/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
