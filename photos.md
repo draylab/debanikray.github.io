@@ -7,6 +7,7 @@ _Does it matter which tool you are using to capture the world around you?_
 
 With the tech in modern smartphones progressing so much over the past few years, I don't think it does. There are some limitations, but I continue to feel more inspired to capture the world when I can't feel the camera weighing me down.
 I've since started to enjoy the smartphone photography experience of shooting and editing on-the-go way more than any other system.
+
 All images below were shot on Xiaomi Mi A3 & Motorola G5s Plus and edited using [VSCO](https://vsco.co/).
 
 <style>
