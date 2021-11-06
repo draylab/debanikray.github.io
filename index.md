@@ -29,25 +29,26 @@ Indian Institute of Technology Kharagpur\
 ### [Alumni](alumni.md)
 
 ## Recent Publications
+
 - Bhanja, A.; Herchel, R.; Moreno-Pineda, E.; Khara, A.; Wernsdorfer, W.; Ray, D.\
 Synthesis, Characterization, Magnetism and Theoretical Analysis of Hetero-Metallic [Ni2Ln2] Partial Di-Cubane Assemblies.\
-Dalton Transactions, 2021, 50, 12517–12527. [[DOI]](https://doi.org/10.1039/d1dt00510c)
+_Dalton Transactions, 2021, 50, 12517–12527._ [[DOI]](https://doi.org/10.1039/d1dt00510c)
 
 - Bhanja, A.; Smythe, L.; Kotrle, K.; Ortu, F.; Herchel, R.; Murrie, M.; Ray, D.\
 Synthesis of Heptanuclear Ni4Dy3 Coordination Aggregate Using Tridentate Ligand: X-Ray Structure, Magnetism and Theoretical Studies.\
-Inorganica Chimica Acta, 2021, 526, 120524. [[DOI]](https://doi.org/10.1016/j.ica.2021.120524)
+_Inorganica Chimica Acta, 2021, 526, 120524._ [[DOI]](https://doi.org/10.1016/j.ica.2021.120524)
 
 - Basak, D.; Smythe, L.; Herchel, R.; Murrie, M.; Nemec, I.; Ray, D.\
 From Tetranuclear to Pentanuclear [Co–Ln] (Ln = Gd, Tb, Dy, Ho) Complexes across the Lanthanide Series: Effect of Varying Sequence of Ligand Addition.\
-Dalton Transactions, 2021, 50, 11861–11877. [[DOI]](https://doi.org/10.1039/d1dt02038b)
+_Dalton Transactions, 2021, 50, 11861–11877_. [[DOI]](https://doi.org/10.1039/d1dt02038b)
 
 - Biswas, M.; Sañudo, E. C.; Ray, D.\
 Carboxylate-Decorated Aggregation of Octanuclear Co4Ln4 (Ln = Dy, Ho, Yb) Complexes from Ligand-Controlled Hydrolysis: Synthesis, Structures, and Magnetic Properties.\
-Inorganic Chemistry, 2021, 60, 11129–11139. [[DOI]](https://doi.org/10.1021/acs.inorgchem.1c01070)
+_Inorganic Chemistry, 2021, 60, 11129–11139._ [[DOI]](https://doi.org/10.1021/acs.inorgchem.1c01070)
 
 - Basak, D.; Martí, E. R.; Murrie, M.; Nemec, I.; Ray, D.\
 Solvent-Induced Structural Transformation from Heptanuclear to Decanuclear [Co–Ln] Coordination Clusters: Trapping of Unique Counteranion and Understanding of Aggregation Pathways.\
-Dalton Transactions, 2021, 50, 9574–9588. [[DOI]](https://doi.org/10.1039/d1dt01278a)
+_Dalton Transactions, 2021, 50, 9574–9588._ [[DOI]](https://doi.org/10.1039/d1dt01278a)
 
 ## Join
 
