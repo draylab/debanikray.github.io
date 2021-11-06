@@ -1,4 +1,4 @@
-Debanik Ray's Website
+The Ray Lab
 <!-- ---
 title: "About"
 permalink: "/about/"
