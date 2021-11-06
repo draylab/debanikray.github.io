@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Publications
-bibliography_list_attributes: reversed: "reversed"
 ---
 
 ### 2021
@@ -32,7 +31,7 @@ _Polyhedron, 2021, 205, 115288._ [[DOI]](https://doi.org/10.1016/j.poly.2021.115
 
 0. Singha, M.; Bhattacharya, P.; Ray, D.; Basak, A.\
 Sterically Hindering the Trajectory of Nucleophilic Attack towards P-Benzynes by a Properly Oriented Hydrogen Atom: An Approach to Achieve Regioselectivity.\
-_Organic & Biomolecular Chemistry, 2021, 19, 5148–5154._ [[DOI]] (https://doi.org/10.1039/d1ob00521a)
+_Organic & Biomolecular Chemistry, 2021, 19, 5148–5154._ [[DOI]](https://doi.org/10.1039/d1ob00521a)
 
 0.  Biswas, M.; Basak, D.; Sañudo, E. C.; Ray, D.\
 Heterodinuclear [Co-Ln] Complexes of Semicarbazide-Arm Bearing Ligand: Synthesis from the Cleavage of Starting [Co-Co] Complex, Structures and Magnetic Properties.\
