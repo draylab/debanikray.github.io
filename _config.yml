@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "pub.md", title: "Publications"} 
   - {file: "alumni.md", title: "Alumni"} 
   - {file: "news.md", title: "News"}
  
