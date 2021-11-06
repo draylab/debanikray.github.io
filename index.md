@@ -40,4 +40,4 @@ _All positions are for Autumn 2022 at the earliest._
 
 <!-- ## Selected Publications -->
 
-<img src="./assets/Banner.jpg" width="100%" class="center"/>
+<img src="./assets/Banner.png" width="100%" class="center"/>
