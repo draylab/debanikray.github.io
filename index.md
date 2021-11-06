@@ -1,37 +1,38 @@
----
-layout: post
-title: 
----
-<head>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
- </head>
-  
-<div>
-        <p align='justify'>
+<!-- # The Ray Research Group -->
+<!-- # Research -->
+<img src="./assets/banner.png" width="100%" class="center"/>
+<br><br>
 
-        I'm a final year undergraduate student pursuing Bachelor of Science <b>(BSc Hons)</b> in Chemistry with Physics and Mathematics from <a href="https://www.sxccal.edu/">St. Xavier's College, Kolkata.</a>
-        
-        </p>
-        
-        <p align='justify'>
-        
-                People sometimes recognize me better by my nickname <i>Wrik.</i> I grew up on the university campus of <a href="http://www.iitkgp.ac.in/">IIT Kharagpur</a> in India.
-                
-        </p>
-</div>
 
-<!-- ~
 
-If still wondering why an aspiring scientist. Well,
+<!-- Our curiousity-driven research group bridges fluid dynamics, machine learning, and systems biology. We develop new theory and algorithms for analysis and control of chaotic systems---ranging from turbulent puffs to neural spikes---and collaborate to apply these tools broadly. One part of the lab develops novel machine learning algorithms for time series, drawing upon the classical physics of complex systems such as strange attractors, cellular automata, and random graphs. The second part of the group applies these principles to real-world complex systems such as biological measurements and fluid mixing.
+ -->
+<!-- Check out our [gallery](pages/gallery.html) -->
 
-Engineering: where the noble, semi-skilled laborers execute the vision of those who think and dream.
+## Members
 
-Engineer: The Oompa Loompas of Science.
+Prof. Debashis Ray\
+Professor & Head, Department of Chemistry\
+Indian Institute of Technology Kharagpur\
+[[Web]](http://www.iitkgp.ac.in/department/CY/faculty/cy-dray) [[Email]](mailto:dray@chem.iitkgp.ac.in)
 
-[BAZINGA!](https://www.dictionary.com/e/slang/bazinga/) -->
+### PhD Students
+
+Biswarup Dutta\
+_2018-present_
+
+
+## Join
+
+**Postdocs.** Please email Prof. Ray directly. Please include a CV or resume and a few sentences explaining which area of the lab’s research you are interested in (or if you want to explore a new area). Applicants from diverse backgrounds are welcome!
+
+**PhD Students.** If you have not yet applied, please apply to the Department of Chemistry. If you are already at IIT Kharagpur, please email Prof. Ray.
+
+_All positions are for Fall 2022 at the earliest._
+
+<!-- # Publications
+
+_Coming soon once the template is fixed. For now, see William's [CV](http://www.wgilpin.com/CV/wgilpin_CV.pdf)_
+ -->
+
+ 
