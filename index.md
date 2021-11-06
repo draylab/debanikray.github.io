@@ -3,6 +3,10 @@ layout: post
 title: 
 ---
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=PT+Sans:ital,wght@1,700&display=swap');
+</style>
+
 <!-- # The Ray Research Group -->
 <!-- # Research -->
 <!-- <img src="./assets/banner.png" width="100%" class="center"/> -->
