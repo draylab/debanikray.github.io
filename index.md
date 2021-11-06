@@ -36,8 +36,6 @@ _2018-present_
 **PhD Students.** If you have not yet applied, please apply to the Department of Chemistry.
 If you are already at IIT Kharagpur, please email Prof. Ray.
 
-_All positions are for Autumn 2022 at the earliest._
-
 
 <!-- ## Selected Publications -->
 
