@@ -5,7 +5,7 @@ title: Alumni
 
 ### PhD Students
 - Mousumi Biswas, _2016-2021_
-- Avik Bhanja, _2016-2021_
+- Avik Bhanja, _2015-2021_
 - Dipmalya Basak, _2015-2021_
 
 ### MSc Students
