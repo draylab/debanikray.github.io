@@ -30,10 +30,10 @@ _2018-present_
 
 ## Join
 
-**Postdocs.** Please [email](mailto:dray@chem.iitkgp.ac.in) Prof. Ray directly. Please include a CV or resume and a few sentences explaining which area of the lab’s research you are interested in (or if you want to explore a new area). Applicants from diverse backgrounds are welcome!
+**Postdocs.** Please email Prof. Ray directly. Please include a CV or resume and a few sentences explaining which area of the lab’s research you are interested in (or if you want to explore a new area). Applicants from diverse backgrounds are welcome!
 
-**PhD Students.** If you have not yet applied, please apply to the Department of Chemistry.\ 
-If you are already at IIT Kharagpur, please [email](mailto:dray@chem.iitkgp.ac.in) Prof. Ray.
+**PhD Students.** If you have not yet applied, please apply to the Department of Chemistry.
+If you are already at IIT Kharagpur, please email Prof. Ray.
 
 _All positions are for Autumn 2022 at the earliest._
 
