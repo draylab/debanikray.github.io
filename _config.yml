@@ -1,7 +1,8 @@
-title: "Debanik Ray"
-author: "Debanik Ray"
-description:  "	&#169; 2021, Debanik Ray"
+title: "The Ray Lab"
+author: "Debashis Ray"
+description:  "	&#169; 2021, Debashis Ray"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>" #Displays Made with <3 at the bottom
+theme: minimal
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,15 +20,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: , title: "CV"}
-  - {file: "photos.md", title: "Photos"} 
-  - {file: "blog.md", title: "Blog"}
+  - {file: "alumni.md", title: "Alumni"} 
+  - {file: "news.md", title: "News"}
  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:debanik09@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:dray@chem.iitkgp.ac.in"}
 #   - {title: Github, icon: github, url: "https://github.com/debanik09"}
-  - {title: Facebook, icon: facebook, url: "https://facebook.com/debanik.ray"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/bakedrainy"}
+#   - {title: Facebook, icon: facebook, url: "https://facebook.com/debanik.ray"}
+#   - {title: Twitter, icon: twitter, url: "https://twitter.com/bakedrainy"}
 #   - {title: Cinéaste, icon: film, url: "https://letterboxd.com/wrik/"}
 
 comments:
