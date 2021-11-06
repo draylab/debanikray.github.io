@@ -27,6 +27,7 @@ Indian Institute of Technology Kharagpur\
 Biswarup Dutta\
 _2018-present_
 
+[Alumni](alumni.md)
 
 ## Join
 
