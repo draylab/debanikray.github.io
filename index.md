@@ -24,8 +24,7 @@ Indian Institute of Technology Kharagpur\
 
 ### PhD Students
 
-Biswarup Dutta\
-_2018-present_
+- Biswarup Dutta, _2018-present_
 
 ### [Alumni](alumni.md)
 
