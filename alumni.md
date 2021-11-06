@@ -10,5 +10,4 @@ title: Alumni
 
 ## MSc Students
 - [Sakya Singha Sen](http://academic.ncl.res.in/ss.sen/home), _2004-2006_
-  Principal Scientist, CSIR-National Chemical Laboratory, Pune, India
 - Nitai C. Giri, _2005-2007_
