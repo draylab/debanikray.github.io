@@ -20,8 +20,8 @@ title: Alumni
 - Alok Ranjan Paital
 - Prasant Kumar Nanda
 - Manindranath Bera
-- Uday Mukhopadhyay
-- Sami Mukhopadhyay
+- Uday Mukhopadhyay, _1994-1999_
+- Sami Mukhopadhyay, _1990-1995_
 
 ### MSc Students
 - [Sakya Singha Sen](http://academic.ncl.res.in/ss.sen/home), _2004-2006_
