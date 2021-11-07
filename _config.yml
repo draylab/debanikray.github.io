@@ -1,4 +1,4 @@
-title: "<img src="./assets/Logo.png" width="25%"/> The Ray Lab"
+title: "The Ray Lab"
 author: "Debashis Ray"
 description:  "	&#169; 2021, Debashis Ray"
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>" #Displays Made with <3 at the bottom
@@ -25,6 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dray@chem.iitkgp.ac.in"}
+  - {title: IITKGP, icon: <img src="./assets/Logo.png" width="25%"/>, url: "http://iitkgp.ac.in/"}
+ 
 #   - {title: ORCiD, icon: orcid, url: "https://orcid.org/0000-0002-4174-6445"}
   
 
