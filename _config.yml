@@ -26,6 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dray@chem.iitkgp.ac.in"}
   - {title: IITKGP, icon: university, url: "http://iitkgp.ac.in/"}
+  - {title: Map, icon: map-marked-alt, url: "https://goo.gl/maps/DSp4bjRVkHW452zN6"}
  
 #   - {title: ORCiD, icon: orcid, url: "https://orcid.org/0000-0002-4174-6445"}
   
