@@ -58,10 +58,10 @@ _Dalton Transactions, 2021, 50, 9574–9588._ [[DOI]](https://doi.org/10.1039/d1
 If you are already at IIT Kharagpur, please email Prof. Ray.
 
 ## Contact
-115, Department of Chemistry,
-Indian Institute of Technology,
-Kharagpur
-721 302, WB, INDIA
+115, Department of Chemistry,\
+Indian Institute of Technology,\
+Kharagpur\
+721 302, WB, INDIA\
 
 Office: +91-3222-283324
 
