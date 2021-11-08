@@ -58,8 +58,8 @@ _Dalton Transactions, 2021, 50, 9574–9588._ [[DOI]](https://doi.org/10.1039/d1
 If you are already at IIT Kharagpur, please email Prof. Ray.
 
 
-<!-- ## Selected Publications -->
+<iframe width='40%' height='100px' alighn="right" src="https://api.mapbox.com/styles/v1/wrik/ckvqkpuhg20az14quehyfdasy.html?title=false&access_token=pk.eyJ1Ijoid3JpayIsImEiOiJja3Zxa282NHExbHVyMzNxZmpxYTRnOHhjIn0.Hqwka43658V3y1S0raWnSw&zoomwheel=false#16.93/22.319388/87.311138/260.8/56" title="Streets" style="border:none;"></iframe>
+
 
 <img src="./assets/Banner.png" width="100%" class="center"/>
 
-<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/wrik/ckvqkpuhg20az14quehyfdasy.html?title=false&access_token=pk.eyJ1Ijoid3JpayIsImEiOiJja3Zxa282NHExbHVyMzNxZmpxYTRnOHhjIn0.Hqwka43658V3y1S0raWnSw&zoomwheel=false#16.93/22.319388/87.311138/260.8/56" title="Streets" style="border:none;"></iframe>
