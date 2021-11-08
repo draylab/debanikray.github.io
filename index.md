@@ -57,7 +57,7 @@ _Dalton Transactions, 2021, 50, 9574–9588._ [[DOI]](https://doi.org/10.1039/d1
 **PhD Students.** If you have not yet applied, please apply to the Department of Chemistry.
 If you are already at IIT Kharagpur, please email Prof. Ray.
 
-<p align="left>
+<p align="left">
           Location
 </p>
           
