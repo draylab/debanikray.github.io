@@ -6,7 +6,7 @@ title:
 
 <!-- # The Ray Research Group -->
 <!-- # Research -->
-<img src="./assets/Banner1.png" style="padding: 0 0 10em 0;" width="100%" class="center"/>
+<img src="./assets/Banner1.png" style="padding: 0 0 5em 0;" width="100%" class="center"/>
 
 <!-- Our curiousity-driven research group bridges fluid dynamics, machine learning, and systems biology. We develop new theory and algorithms for analysis and control of chaotic systems---ranging from turbulent puffs to neural spikes---and collaborate to apply these tools broadly. One part of the lab develops novel machine learning algorithms for time series, drawing upon the classical physics of complex systems such as strange attractors, cellular automata, and random graphs. The second part of the group applies these principles to real-world complex systems such as biological measurements and fluid mixing.
  -->
